@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/doro/rs_ws/install/realsense2_camera/include/**",
+        "/home/doro/rs_ws/install/realsense2_camera_msgs/include/**",
+        "/home/doro/kuka_ws/install/serialrobottoolbox/include/**",
+        "/home/doro/kuka_ws/install/rope_msgs/include/**",
+        "/home/doro/kuka_ws/install/iiwa_utils/include/**",
+        "/home/doro/kuka_ws/install/iiwa_controllers/include/**",
+        "/home/doro/kuka_ws/install/iiwa_msgs/include/**",
+        "/home/doro/kuka_ws/install/iiwa_hw/include/**",
+        "/home/doro/kuka_ws/install/frilib/include/**",
+        "/home/doro/kuka_ws/install/bezier/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/doro/rs_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/doro/rs_ws/src/video-record/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
